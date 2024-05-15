@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 .DS_Store
 data/
+02-calcium_imaging/caiman_video_trial_0.tif
+02-calcium_imaging/calcium_video.tif
